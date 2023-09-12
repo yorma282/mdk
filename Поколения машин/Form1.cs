@@ -28,5 +28,11 @@ namespace Поколения_машин
             Form3 f = new Form3();
             f.ShowDialog();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form4 f = new Form4();
+            f.ShowDialog();
+        }
     }
 }

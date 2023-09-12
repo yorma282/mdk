@@ -23,3 +23,4 @@ C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\�
 C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения машин.exe
 C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения машин.pdb
 C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения_машин.Form3.resources
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения_машин.Form4.resources
