@@ -1,0 +1,25 @@
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\obj\Debug\Поколения машин.csproj.AssemblyReference.cache
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\obj\Debug\Поколения машин.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\obj\Debug\Поколения_машин.Form1.resources
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\obj\Debug\Поколения_машин.Properties.Resources.resources
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\obj\Debug\Поколения машин.csproj.GenerateResource.cache
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\obj\Debug\Поколения машин.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\obj\Debug\Поколения_машин.Form2.resources
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\bin\Debug\Поколения машин.exe.config
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\bin\Debug\Поколения машин.exe
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\bin\Debug\Поколения машин.pdb
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\obj\Debug\Поколения машин.exe
+C:\Users\Student2\Documents\Поколения машин\Поколения машин\obj\Debug\Поколения машин.pdb
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\bin\Debug\Поколения машин.exe.config
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\bin\Debug\Поколения машин.exe
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\bin\Debug\Поколения машин.pdb
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения машин.csproj.AssemblyReference.cache
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения машин.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения_машин.Form1.resources
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения_машин.Form2.resources
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения_машин.Properties.Resources.resources
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения машин.csproj.GenerateResource.cache
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения машин.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения машин.exe
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения машин.pdb
+C:\Users\Student2\Documents\GitHub\mdk\Поколения машин\obj\Debug\Поколения_машин.Form3.resources
